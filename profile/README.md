@@ -1,3 +1,3 @@
 ## Green Mountain Transit
 
-Data and analysis serving Vermont's largest transit network.
+Data and analysis for building better transit
