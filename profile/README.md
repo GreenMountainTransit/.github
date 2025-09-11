@@ -1,3 +1,3 @@
 ## Green Mountain Transit
 
-Data and analysis for building better transit
+Data and analysis for better transit
